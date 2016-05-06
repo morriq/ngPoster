@@ -5,7 +5,7 @@ Directive for videos. Replace ng-poster with poster
 if you're using 
 
 ```
-<video poster="{{ foo }}></video>
+<video poster="{{ foo }}"></video>
 ```
 
 it will show in console error
